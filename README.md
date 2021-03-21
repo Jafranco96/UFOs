@@ -11,7 +11,7 @@ In her initial publication of the HTML page, Dana created a table populated with
 
 With the additional filters built, the updated HTML page looks as follows:
 
-<img src !="https://github.com/Jafranco96/UFOs/blob/main/Resources/Webpage_1.PNG">
+<img src ="https://github.com/Jafranco96/UFOs/blob/main/Resources/Webpage_1.PNG">
 
 Before explaining the process of how to use the filters, it is imperative to acknowledge the exact process that the HTML page is using to “look” for changes within the filters. Instead of anticipating a button click, the event listener of the HTML page is anticipating any input changes to the filters. Instead of having to click a button to get to the filtered data, the table will filter automatically when any of the filters have been changed.
 
