@@ -17,7 +17,11 @@ Before explaining the process of how to use the filters, it is imperative to ack
 
 As an example, by just inputting a city into the “Enter City” filter, the table instantly updates:
 
+<img src ="https://github.com/Jafranco96/UFOs/blob/main/Resources/Webpage_2.PNG">
+
 The HTML webpage also has the capability to hold changes to all five filters and, if occurrences with all five parameters exists, the table will be updated as well.
+
+<img src ="https://github.com/Jafranco96/UFOs/blob/main/Resources/Webpage_3.PNG">
 
 
 ## Analysis Results Summary
